@@ -8,4 +8,4 @@ Branches are very useful in version control. You can use them to try to fix some
 
 ## Commits
 
-Is it possible to make one line commit in git bash and yet include new lines and bullet points?
+Is it possible to make one line commit in git bash and yet include new lines and bullet points? Lets try this aproach now.
